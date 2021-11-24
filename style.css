@@ -1,0 +1,10 @@
+#olist li{
+    color: maroon;
+    font-weight: bold;
+    line-height: 5ex;
+}
+#ulist li
+{
+    color: maroon;
+    font-family: monospace;
+}
